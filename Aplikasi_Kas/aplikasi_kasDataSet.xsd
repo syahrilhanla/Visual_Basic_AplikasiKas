@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="aplikasi_kasDataSet" targetNamespace="http://tempuri.org/aplikasi_kasDataSet.xsd" xmlns:mstns="http://tempuri.org/aplikasi_kasDataSet.xsd" xmlns="http://tempuri.org/aplikasi_kasDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="aplikasi_kasConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="aplikasi_kasConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Aplikasi_Kas.My.MySettings.GlobalReference.Default.aplikasi_kasConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="isi_tablekasTableAdapter" GeneratorDataComponentClassName="isi_tablekasTableAdapter" Name="isi_tablekas" UserDataComponentName="isi_tablekasTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="aplikasi_kasConnectionString (MySettings)" DbObjectName="aplikasi_kas.isi_tablekas" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `Jenis`, `Keterangan`, `Jumlah`, `Saldo`, `Tanggal` FROM `isi_tablekas`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="aplikasi_kasDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="aplikasi_kasDataSet" msprop:Generator_UserDSName="aplikasi_kasDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="isi_tablekas" msprop:Generator_TableClassName="isi_tablekasDataTable" msprop:Generator_TableVarName="tableisi_tablekas" msprop:Generator_TablePropName="isi_tablekas" msprop:Generator_RowDeletingName="isi_tablekasRowDeleting" msprop:Generator_RowChangingName="isi_tablekasRowChanging" msprop:Generator_RowEvHandlerName="isi_tablekasRowChangeEventHandler" msprop:Generator_RowDeletedName="isi_tablekasRowDeleted" msprop:Generator_UserTableName="isi_tablekas" msprop:Generator_RowChangedName="isi_tablekasRowChanged" msprop:Generator_RowEvArgName="isi_tablekasRowChangeEvent" msprop:Generator_RowClassName="isi_tablekasRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

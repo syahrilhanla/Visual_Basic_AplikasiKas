@@ -1,0 +1,17 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Kasus\Aplikasi_Kas\Aplikasi_Kas\bin\Debug\Aplikasi_Kas.exe.config
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\Aplikasi_Kas\Aplikasi_Kas\bin\Debug\Aplikasi_Kas.exe.config
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\Aplikasi_Kas\Aplikasi_Kas\bin\Debug\Aplikasi_Kas.exe
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\Aplikasi_Kas\Aplikasi_Kas\bin\Debug\Aplikasi_Kas.pdb
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\Aplikasi_Kas\Aplikasi_Kas\bin\Debug\Aplikasi_Kas.xml
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\Aplikasi_Kas\Aplikasi_Kas\obj\Debug\Aplikasi_Kas.vbprojResolveAssemblyReference.cache
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\Aplikasi_Kas\Aplikasi_Kas\obj\Debug\Aplikasi_Kas.Form1.resources
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\Aplikasi_Kas\Aplikasi_Kas\obj\Debug\Aplikasi_Kas.Resources.resources
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\Aplikasi_Kas\Aplikasi_Kas\obj\Debug\Aplikasi_Kas.vbproj.GenerateResource.Cache
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\Aplikasi_Kas\Aplikasi_Kas\obj\Debug\Aplikasi_Kas.exe
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\Aplikasi_Kas\Aplikasi_Kas\obj\Debug\Aplikasi_Kas.xml
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\Aplikasi_Kas\Aplikasi_Kas\obj\Debug\Aplikasi_Kas.pdb
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\Aplikasi_Kas\Aplikasi_Kas\bin\Debug\BouncyCastle.Crypto.dll
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\Aplikasi_Kas\Aplikasi_Kas\bin\Debug\Google.Protobuf.dll
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\Aplikasi_Kas\Aplikasi_Kas\bin\Debug\MySql.Data.dll
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\Aplikasi_Kas\Aplikasi_Kas\bin\Debug\Renci.SshNet.dll
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\Aplikasi_Kas\Aplikasi_Kas\bin\Debug\MySql.Data.xml
